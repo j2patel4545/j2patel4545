@@ -1,4 +1,4 @@
-<img width="100%" align="center" src="./bg.png" alt="">
+<img width="100%" align="center" src="./bg2.png" alt="">
 <!-- <h1 align="center">Hi 👋, I'm jetal patel</h1> -->
 <h3 align="center">A passionate MERN stack developer </h3>
 
