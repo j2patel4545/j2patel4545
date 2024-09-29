@@ -1,6 +1,6 @@
 <img width="100%" align="center" src="./bg.png" alt="">
 <!-- <h1 align="center">Hi 👋, I'm jetal patel</h1> -->
-<h3 align="center">A passionate frontend developer student</h3>
+<h3 align="center">A passionate MERN stack developer </h3>
 
 <img align="right" width="400" alt="coding" src="./gif coding.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j2patel4545&label=Profile%20views&color=0e75b6&style=flat" alt="j2patel4545" /> </p>
